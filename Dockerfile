@@ -1,1 +1,0 @@
-ejemplo.simple.nginx.Dockerfile
