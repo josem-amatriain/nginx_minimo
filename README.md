@@ -21,3 +21,7 @@ The image is based on ```nginx 1.16.1``` ; it was the stable image.
 
 The container created with the run script exposes the http://127.0.0.3/ address accesible from yuor browser.
 You can see the log of nginx at console. You can stop the container with ```Ctr-C```. The container runs with --rm parameter to delete the container after it ends. 
+
+Docker hub image: 
+https://hub.docker.com/r/ingenierojota/nginx_minimo
+
